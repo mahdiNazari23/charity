@@ -428,8 +428,8 @@ h3 {
 
 /* line 298, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 .section_padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 @media (max-width: 767px) {
@@ -3443,9 +3443,6 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_news.scss */
-.news__area {
-  background: #F3FCF8;
-}
 
 /* line 3, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_news.scss */
 .news__area .single__blog {
@@ -3572,6 +3569,10 @@ h3 {
 }
 
 /* line 58, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_donation.scss */
+.make_donation_area {
+  background: #F3FCF8;
+}
+
 .make_donation_area .donation_form .input_field .input-group {
   width: 100%;
   border: 1px solid #17a2b8;
