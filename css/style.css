@@ -1473,13 +1473,13 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/photo_8.jpg);
+  background-image: url(../img/banner/photo_8.webp);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
-.slider_bg_2 {
+/* .slider_bg_2 {
   background-image: url(../img/banner/banner2.png);
-}
+} */
 
 /* line 8, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
 .slider_area .single_slider {
@@ -2958,7 +2958,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .video_bg_1 {
-  background-image: url(../img/banner/photo_7.jpg);
+  background-image: url(../img/banner/photo_7.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
